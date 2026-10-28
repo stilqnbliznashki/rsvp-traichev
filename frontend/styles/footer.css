@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    min-height: 56px;
+    padding: 12px 24px;
+    border-top: 1px solid #cccccc;
+    background: #ffffff;
+}
+
+footer p {
+    margin: 0;
+    color: #444444;
+}
